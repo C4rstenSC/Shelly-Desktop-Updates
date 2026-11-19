@@ -1,7 +1,7 @@
 # Shelly Desktop – Updates
 
-Aktuelle Version: **0.2.28**
+Aktuelle Version: **0.3.0**
 
 Öffentlicher Updatekanal mit verschlüsselten Paketen. Updates ohne GitHub-Anmeldung; Integritätsprüfung vor Installation.
 
-0.2.28: Roter Hinweis Update verfügbar ausschließlich links unter dem Update-Button; automatische und manuelle Prüfung aktualisieren ihn. Tabellenspalten passen sich dem längsten Inhalt plus etwa 1 cm an. Alle Spalten frei verstellbar, manuelle Breiten bleiben bei Aktualisierung erhalten. Firmware zeigt kurze Versionsnummer, vollständiger Build im Tooltip. Horizontaler Bildlauf statt zusammengedrückter Inhalte. Build und vorhandene Kernprüfungen erfolgreich; visuelles Verhalten unter Windows nicht live geprüft.
+0.3.0: Manuelles Verstellen von Zeilenhöhen, Tabellenkopf und Spaltenbreiten gesperrt. Spaltenbreiten automatisch nach Inhalt plus etwa 1 cm; horizontaler und vertikaler Bildlauf bei kleinen Fenstern. Enthält die bisherigen Änderungen bis 0.2.28. Build und vorhandene Kernprüfungen erfolgreich; visuelles Verhalten unter Windows nicht live geprüft.
