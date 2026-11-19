@@ -1,9 +1,9 @@
 # Shelly Desktop – Updates
 
-Aktuell: **0.2.21**.
+Aktuelle Version: **0.2.22**
 
-Öffentlicher Kanal für verschlüsselte ZIP.enc-Programmpakete. Die Windows-Software prüft Größe und SHA-256 vor Entschlüsselung und Installation. Für Downloads ist keine GitHub-Anmeldung erforderlich.
+Öffentlicher Updatekanal für Shelly Desktop. Die Anwendung lädt das verschlüsselte Update ohne GitHub-Anmeldung und prüft Länge, SHA-256 und Integrität vor der Installation.
 
-0.2.21: Direkter FRITZ!Box-Zugriff über LAN/VPN ohne Cloud-Rückfall; direkte Fehlerursachen bleiben sichtbar. Statuszeile oben unter Account. Gepufferte Darstellung und weniger unnötige Tabellenaktualisierungen. 339 simulierte Prüfungen; kein Live-Test an der FRITZ!Box des Anwenders.
+Diese Ablage enthält ausschließlich verschlüsselte Updatepakete und das Update-Manifest. Sie enthält keine persönlichen Zugangsdaten.
 
-Dieser Kanal enthält keine persönlichen Zugangsdaten. Quellcode und Entwicklung sind getrennt vom öffentlichen Updatekanal.
+0.2.22: Eigene Zeichenfläche für die Statusanzeige; nur geänderte Bereiche werden aktualisiert. Direkter FRITZ!Box-Verbindungsweg korrigiert und Cloud-Brückentest getrennt ergänzt.
