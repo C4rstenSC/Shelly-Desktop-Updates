@@ -1,7 +1,7 @@
 # Shelly Desktop – Updates
 
-Aktuelle Version: **0.2.27**
+Aktuelle Version: **0.2.28**
 
 Öffentlicher Updatekanal mit verschlüsselten Paketen. Updates ohne GitHub-Anmeldung; Integritätsprüfung vor Installation.
 
-0.2.27: Spalte Hostname (Fritz.box) zeigt ausschließlich bestätigte Router-Hostnamen. Automatische Abfrage beim Start und regelmäßig über den ausgewählten Verbindungsweg; zuletzt bestätigte Werte bleiben über Neustarts erhalten. Kein Ersatz durch den vom Shelly gemeldeten Hostnamen. Build und simulierte Router-/Cacheprüfung erfolgreich; keine Live-Prüfung an der Benutzer-FRITZ!Box.
+0.2.28: Roter Hinweis Update verfügbar ausschließlich links unter dem Update-Button; automatische und manuelle Prüfung aktualisieren ihn. Tabellenspalten passen sich dem längsten Inhalt plus etwa 1 cm an. Alle Spalten frei verstellbar, manuelle Breiten bleiben bei Aktualisierung erhalten. Firmware zeigt kurze Versionsnummer, vollständiger Build im Tooltip. Horizontaler Bildlauf statt zusammengedrückter Inhalte. Build und vorhandene Kernprüfungen erfolgreich; visuelles Verhalten unter Windows nicht live geprüft.
