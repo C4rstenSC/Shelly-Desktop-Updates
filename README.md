@@ -1,9 +1,9 @@
 # Shelly Desktop – Updates
 
-Öffentlicher Downloadkanal für verschlüsselte ZIP.enc-Updatepakete von Shelly Desktop.
+Öffentlicher Downloadkanal für verschlüsselte ZIP.enc-Updatepakete.
 
-Die Windows-Software liest Updates/stable/update.json, prüft Größe und SHA-256, entschlüsselt das Paket und installiert es automatisch. Eine GitHub-Anmeldung ist für Downloads nicht erforderlich.
+Aktuell: **0.2.18**.
 
-Der Quellcode und die Entwicklungsdateien werden getrennt in einem privaten Repository verwaltet. Dieses Repository enthält keine persönlichen Zugangsdaten.
+Die Windows-Software liest Updates/stable/update.json, prüft Größe und SHA-256, entschlüsselt das Paket und installiert es. Keine GitHub-Anmeldung für Downloads erforderlich.
 
-Aktuell: 0.2.17.
+Der Quellcode wird getrennt im privaten Entwicklungsrepository verwaltet. Dieser Kanal enthält ausschließlich verschlüsselte Programmpakete und Update-Metadaten, keine persönlichen Zugangsdaten.
