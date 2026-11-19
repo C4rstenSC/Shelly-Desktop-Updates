@@ -1,9 +1,7 @@
 # Shelly Desktop – Updates
 
-Aktuelle Version: **0.2.22**
+Aktuelle Version: **0.2.23**
 
-Öffentlicher Updatekanal für Shelly Desktop. Die Anwendung lädt das verschlüsselte Update ohne GitHub-Anmeldung und prüft Länge, SHA-256 und Integrität vor der Installation.
+Öffentlicher Updatekanal mit verschlüsselten Paketen. Die Anwendung lädt Updates ohne GitHub-Anmeldung und prüft Integrität vor der Installation.
 
-Diese Ablage enthält ausschließlich verschlüsselte Updatepakete und das Update-Manifest. Sie enthält keine persönlichen Zugangsdaten.
-
-0.2.22: Eigene Zeichenfläche für die Statusanzeige; nur geänderte Bereiche werden aktualisiert. Direkter FRITZ!Box-Verbindungsweg korrigiert und Cloud-Brückentest getrennt ergänzt.
+0.2.23: FRITZ!Box-XML wird als Bytes eingelesen, unabhängig vom HTTP-Zeichensatznamen. Der separate Brückentest prüft Benutzer und Geräteidentität statt optionaler Netzabfragen. Alternative SOAPAction-Schreibweise bei Invalid Action für Leseaktionen. Validierung durch Simulation; keine bestätigte Live-Verbindung an der FRITZ!Box des Benutzers.
