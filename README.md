@@ -1,7 +1,7 @@
 # Shelly Desktop – Updates
 
-Aktuelle Version: **0.2.25**
+Aktuelle Version: **0.2.26**
 
 Öffentlicher Updatekanal mit verschlüsselten Paketen. Updates ohne GitHub-Anmeldung; Integritätsprüfung vor Installation.
 
-0.2.25: Cloud-Brückenprüfung vermeidet den fehlgeschlagenen Abruf der kompletten Hosts-Schnittstellenbeschreibung und verwendet einen dokumentierten Leseaufruf mit Identitätsprüfung. Strukturierte RPC-Fehler werden numerisch ausgewertet. Beide Neu-laden-Buttons aus den Geräteeinstellungen entfernt; erneute Abfrage nach Änderungen und zeitlich begrenzte Prüfung nach Neustart/Update. Live-Funktion der Brücke am betroffenen Router weiterhin nicht bestätigt.
+0.2.26: Auswählbarer und gespeicherter FRITZ!Box-Verbindungsweg: Direkt oder Cloud-Brücke. Folgende Router-Aktionen beachten diese Auswahl, einschließlich Hostnamen-Übernahme. Aktiver Button grün. Unteren Erklärungstext und Kurzanleitung-Button entfernt. Roter Hinweis Update verfügbar unter den Update-Steuerelementen bei neuerer Version. Cloud-Brückenprüfung mit 0.2.25 vom Benutzer ohne VPN bestätigt; neue Schreibfunktion simuliert geprüft.
